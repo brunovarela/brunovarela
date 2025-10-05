@@ -2,7 +2,7 @@
 
 ### ⚙️ Back-end
 - **Python** (avançado)
-- **FastAPI**, **Flask**
+- **FastAPI**, **Django**
 - **Node.js** (intermediário)
 - **SQLite**, **PostgreSQL**
 - **Scraping com BeautifulSoup / Requests / Selenium**
@@ -19,7 +19,7 @@
 - **JavaScript (ES6+)**
 - **Recharts**, **Tailwind CSS**
 
-### ☁️ DevOps / Ferramentas
+### ☁️ Ferramentas
 - **Railway** (deploy)
 - **Git & GitHub**
 - **VS Code**
